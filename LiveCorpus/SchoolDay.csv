@@ -1,0 +1,648 @@
+﻿;#;FORM;LEMMA;GRAM;COMMENT;CHECKED;RIGHT1;RIGHT2;RIGHT3;RIGHT4;RIGHT5;RIGHT6;POS;AUTO_LEMMA;AUTO_GRAM
+36131;#doc=Schoolday.2.txt;;;;;;;;;;;;;;
+36132;1;﻿;﻿;PUNC;;;;;;;;;PUNC;﻿;PUNC
+36133;2;﻿;﻿;PUNC;;;;;;;;;PUNC;﻿;PUNC
+36134;3;М.;М.;INIT abbr;;;;м;;;;;S;М.;S - - nonflex nonflex
+36135;4;Г.;Г.;INIT abbr;;;;г;;;;;S;Г.;S - - nonflex nonflex
+36136;5;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+36137;6;Кхе-кхе;КХЕ-КХЕ;INTJ;;;е;х;к;;е;х;INTJ;КХЕ-КХЕ;INTJ
+36138;7;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+36139;8;кхм;КХМ;INTJ;;;м;х;к;;;;NONLEX;КХМ;NONLEX
+36140;9;.;.;SENT;;;;;;;;;SENT;.;SENT
+36141;;;;;;;;;;;;;;;
+36142;1;Эээ;ЭЭЭ;INTJ;;;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+36143;2;сегодня;СЕГОДНЯ;ADV ;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -
+36144;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36145;4;нет;НЕТ;PART;;;т;е;н;;;;PART;НЕТ;PART
+36146;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36147;6;вчера;ВЧЕРА;ADV;;;а;р;е;ч;в;;ADV;ВЧЕРА;ADV -
+36148;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36149;8;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+36150;9;я;Я;SPRO sg 1p nom ;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36151;10;попросила;ПОПРОСИТЬ;V pf praet sg indic f ;;;а;л;и;с;о;р;V;ПОПРОСИТЬ;V pf praet sg indic f -
+36152;11;у;У;PR;;;у;;;;;;PR;У;PR
+36153;12;мамы;МАМА;S f anim gen sg;;;ы;м;а;м;;;S;МАМА;S f anim gen sg
+36154;13;взять;ВЗЯТЬ;V pf inf;;;ь;т;я;з;в;;V;ВЗЯТЬ;V pf - - inf - -
+36155;14;конвертик;КОНВЕРТИК;S m inan acc sg;;;к;и;т;р;е;в;S;КОНВЕРТИК;S m inan acc sg
+36156;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36157;16;чтобы;ЧТОБЫ;CONJ;;;ы;б;о;т;ч;;CONJ;ЧТОБЫ;CONJ
+36158;17;написать;НАПИСАТЬ;V pf inf ;;;ь;т;а;с;и;п;V;НАПИСАТЬ;V pf - - inf - -
+36159;18;гмм;ГМ;INTJ;;;м;м;г;;;;NONLEX;ГММ;NONLEX
+36160;19;одно...;ОДИН…;;distort;;;;;о;н;д;A;ОДИН...;A - acc sg plen n -
+36161;20;моему;МОЙ;APRO dat sg plen m ;;;у;м;е;о;м;;A;МОЙ;A - dat sg plen m -
+36162;21;другу;ДРУГ;S m anim dat sg;;;у;г;у;р;д;;S;ДРУГ;S - - dat sg
+36163;22;письмо;ПИСЬМО;S n inan acc sg;;;о;м;ь;с;и;п;S;ПИСЬМО;S n inan acc sg
+36164;23;.;.;SENT;;;;;;;;;SENT;.;SENT
+36165;;;;;;;;;;;;;;;
+36166;1;Это;ЭТОТ;APRO n nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg
+36167;2;друг;ДРУГ;S m anim nom sg;;;г;у;р;д;;;S;ДРУГ;S - - nom sg
+36168;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36169;4;который;КОТОРЫЙ;APRO nom sg plen m ;;;й;ы;р;о;т;о;A;КОТОРЫЙ;A - nom sg plen m -
+36170;5;мне;Я;SPRO sg 1p dat;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc
+36171;6;нравится;НРАВИТЬСЯ;V ipf praes sg indic 3p;;;я;с;т;и;в;а;V;НРАВИТЬСЯ;V ipf praes sg indic - 3p
+36172;7;.;.;SENT;;;;;;;;;SENT;.;SENT
+36173;;;;;;;;;;;;;;;
+36174;1;Ха-ха;ХА-ХА;INTJ;;;а;х;;а;х;;INTJ;ХА-ХА;INTJ
+36175;2;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+36176;3;ха;ХА;INTJ;;;а;х;;;;;INTJ;ХА;INTJ
+36177;4;.;.;SENT;;;;;;;;;SENT;.;SENT
+36178;;;;;;;;;;;;;;;
+36179;1;Сегодня;СЕГОДНЯ;ADV ;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -
+36180;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36181;3;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+36182;4;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36183;5;пришла;ПРИЙТИ;V pf praet sg indic f ;;;а;л;ш;и;р;п;V;ПРИЙТИ;V pf praet sg indic f -
+36184;6;в;В;PR;;;в;;;;;;PR;В;PR
+36185;7;школу;ШКОЛА;S f inan acc sg;;;у;л;о;к;ш;;S;ШКОЛА;S f inan acc sg
+36186;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36187;9;его;ОН;SPRO sg 3p m gen;;;о;г;е;;;;SPRO;ОН;SPRO sg 3p m acc
+36188;10;ещё;ЕЩЕ;ADV ;;;ё;щ;е;;;;ADV;ЕЩЕ;ADV -
+36189;11;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+36190;12;было;БЫТЬ;V ipf praet sg indic n ;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+36191;13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36192;14;потому что;потому что;CONJ;;;о;т;ч;;у;м;ZERO;потому что;ZERO
+36193;15;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+36194;16;всё;ВЕСЬ;APRO acc pl plen inan;;;ё;с;в;;;;A;ВЕСЬ;A - nom pl plen - -
+36195;17;время;ВРЕМЯ;S n inan acc sg;;;я;м;е;р;в;;S;ВРЕМЯ;S n inan acc sg
+36196;18;опаздывает;ОПАЗДЫВАТЬ;V ipf praes sg indic 3p;;;т;е;а;в;ы;д;V;ОПАЗДЫВАТЬ;V ipf praes sg indic - 3p
+36197;19;.;.;SENT;;;;;;;;;SENT;.;SENT
+36198;;;;;;;;;;;;;;;
+36199;1;Иии...;И;CONJ;*;;;;;и;и;и;S;ИИИ...;S m anim dat sg
+36200;2;эм;ЭМ;INTJ;;;м;э;;;;;S;ЭМ;S n inan nonflex nonflex
+36201;3;поэтому;ПОЭТОМУ;ADVPRO;;;у;м;о;т;э;о;ADV;ПОЭТОМУ;ADV -
+36202;4;мне;Я;SPRO sg 1p dat;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc
+36203;5;...;...;SENT;;;;;;;;;SENT;...;SENT
+36204;;;;;;;;;;;;;;;
+36205;1;Первым;ПЕРВЫЙ;ANUM ins sg plen m;;;м;ы;в;р;е;п;A;ПЕРВЫЙ;A - ins sg plen m -
+36206;2;уроком;УРОК;S m inan ins sg;;;м;о;к;о;р;у;S;УРОК;S m inan ins sg
+36207;3;у;У;PR;;;у;;;;;;PR;У;PR
+36208;4;нас;МЫ;SPRO pl 1p gen;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+36209;5;была;БЫТЬ;V ipf praet sg indic f;;;а;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic f -
+36210;6;математика;МАТЕМАТИКА;S f inan nom sg;;;а;к;и;т;а;м;S;МАТЕМАТИКА;S f inan nom sg
+36211;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36212;8;нооо...;НО;CONJ;*;;;;;о;о;о;S;НООО...;S m inan nonflex nonflex
+36213;9;на;НА;PR;;;а;н;;;;;PR;НА;PR
+36214;10;математику;МАТЕМАТИКА;S f inan acc sg;;;у;к;и;т;а;м;S;МАТЕМАТИКА;S f inan acc sg
+36215;11;вообще;ВООБЩЕ;ADV;;;е;щ;б;о;о;в;ADV;ВООБЩЕ;ADV -
+36216;12;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+36217;13;почти;ПОЧТИ;ADV;;;и;т;ч;о;п;;ADV;ПОЧТИ;ADV -
+36218;14;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+36219;15;опаздывает;ОПАЗДЫВАТЬ;V ipf praes sg indic 3p;;;т;е;а;в;ы;д;V;ОПАЗДЫВАТЬ;V ipf praes sg indic - 3p
+36220;16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36221;17;нооо;НО;CONJ;*;;о;о;о;н;;;S;НООО;S f inan nonflex nonflex
+36222;18;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+36223;19;короче;КОРОЧЕ;PARENTH ;;;е;ч;о;р;о;к;ADV;КОРОЧЕ;ADV comp
+36224;20;поздно;ПОЗДНО;ADV ;;;о;н;д;з;о;п;ADV;ПОЗДНО;ADV -
+36225;21;приходит.;ПРИХОДИТЬ.;V ipf praes sg indic 3p;;;;т;и;д;о;х;V;ПРИХОДИТЬ.;V ipf praes sg indic - 3p
+36226;22;Хм;ХМ;INTJ;;;м;х;;;;;INTJ;ХМ;INTJ
+36227;23;иии;И;CONJ;*;;и;и;и;;;;S;ИИИ;S m inan gen sg
+36228;24;когдааа;КОГДА;CONJ;*;;а;а;а;д;г;о;S;КОГДААА;S m inan nonflex nonflex
+36229;25;...;...;SENT;;;;;;;;;SENT;...;SENT
+36230;;;;;;;;;;;;;;;
+36231;1;Потом;ПОТОМ;ADV;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36232;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36233;3;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+36234;4;у;У;PR;;;у;;;;;;PR;У;PR
+36235;5;нас;МЫ;SPRO pl 1p gen;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+36236;6;уже;УЖЕ;ADV;;;е;ж;у;;;;ADV;УЖЕ;ADV -
+36237;7;прошла;ПРОЙТИ;V pf praet sg indic f;;;а;л;ш;о;р;п;A;ПРОШЛЫЙ;A - - sg brev f -
+36238;8;перемена;ПЕРЕМЕНА;S f inan nom sg;;;а;н;е;м;е;р;S;ПЕРЕМЕНА;S f inan nom sg
+36239;9;после;ПОСЛЕ;PR;;;е;л;с;о;п;;PR;ПОСЛЕ;PR
+36240;10;математики;МАТЕМАТИКА;S f inan gen sg;;;и;к;и;т;а;м;S;МАТЕМАТИКА;S f inan gen sg
+36241;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36242;12;потом;ПОТОМ;ADV;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36243;13;ещё;ЕЩЕ;ADV;;;ё;щ;е;;;;ADV;ЕЩЕ;ADV -
+36244;14;прошла;ПРОЙТИ;V pf praet sg indic f;;;а;л;ш;о;р;п;V;ПРОЙТИ;V pf praet sg indic f -
+36245;15;ещё;ЕЩЕ;ADV;;;ё;щ;е;;;;ADV;ЕЩЕ;ADV -
+36246;16;одна;ОДИН;ANUM nom sg plen f;;;а;н;д;о;;;A;ОДИН;A - nom sg plen f -
+36247;17;математика;МАТЕМАТИКА;S f inan nom sg;;;а;к;и;т;а;м;S;МАТЕМАТИКА;S f inan nom sg
+36248;18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36249;19;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36250;20;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36251;21;так и;так и;;раздельно;;и;;к;а;т;;ZERO;так и;ZERO
+36252;22;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+36253;23;решилась;РЕШИТЬСЯ;V pf praet sg indic f;;;ь;с;а;л;и;ш;V;РЕШИТЬСЯ;V pf praet sg indic f -
+36254;24;ему;ОН;SPRO sg 3p m dat;;;у;м;е;;;;SPRO;ОН;SPRO sg 3p m dat
+36255;25;ничего;НИЧТО;S n gen sg;;;о;г;е;ч;и;н;S;НИЧТО;S n - gen sg
+36256;26;отдать;ОТДАТЬ;V pf inf;;;ь;т;а;д;т;о;V;ОТДАТЬ;V pf - - inf - -
+36257;27;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36258;28;потому что;потому что;CONJ;;;о;т;ч;;у;м;ZERO;потому что;ZERO
+36259;29;яяя;Я;SPRO sg 1p nom;*;;я;я;я;;;;NONLEX;ЯЯЯ;NONLEX
+36260;30;испугалась;ИСПУГАТЬСЯ;V pf praet sg indic f;;;ь;с;а;л;а;г;V;ИСПУГАТЬСЯ;V pf praet sg indic f -
+36261;31;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36262;32;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+36263;33;потом;ПОТОМ;ADV;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36264;34;…;…;PUNC;;;;;;;;;PUNC;…;PUNC
+36265;35;кхм;КХМ;INTJ;;;м;х;к;;;;NONLEX;КХМ;NONLEX
+36266;36;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+36267;37;кхм;КХМ;INTJ;;;м;х;к;;;;NONLEX;КХМ;NONLEX
+36268;38;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+36269;39;кхм;КХМ;INTJ;;;м;х;к;;;;NONLEX;КХМ;NONLEX
+36270;40;.;.;SENT;;;;;;;;;SENT;.;SENT
+36271;;;;;;;;;;;;;;;
+36272;1;М.;М.;INIT abbr;;;;м;;;;;S;М.;S - - nonflex nonflex
+36273;2;Г.;Г.;INIT abbr;;;;г;;;;;S;Г.;S - - nonflex nonflex
+36274;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+36275;4;Сначала;СНАЧАЛА;ADV;;;а;л;а;ч;а;н;ADV;СНАЧАЛА;ADV -
+36276;5;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36277;6;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+36278;7;хотела;ХОТЕТЬ;V ipf praet sg indic f ;;;а;л;е;т;о;х;V;ХОТЕТЬ;V ipf praet sg indic f -
+36279;8;никому;НИКТО;SPRO m dat sg;;;у;м;о;к;и;н;S;НИКТО;S m - dat sg
+36280;9;читать;ЧИТАТЬ;V ipf inf;;;ь;т;а;т;и;ч;V;ЧИТАТЬ;V ipf - - inf - -
+36281;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36282;11;ой;ОЙ;INTJ;;;й;о;;;;;INTJ;ОЙ;INTJ
+36283;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36284;13;давать;ДАВАТЬ;V ipf inf ;;;ь;т;а;в;а;д;V;ДАВАТЬ;V ipf - - inf - -
+36285;14;читать;ЧИТАТЬ;V ipf inf;;;ь;т;а;т;и;ч;V;ЧИТАТЬ;V ipf - - inf - -
+36286;15;эээ;ЭЭЭ;INTJ;;;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+36287;16;это;ЭТОТ;APRO acc sg plen n ;;;о;т;э;;;;A;ЭТОТ;A - acc sg plen n -
+36288;17;письмо;ПИСЬМО;S n inan acc sg;;;о;м;ь;с;и;п;S;ПИСЬМО;S n inan nom sg
+36289;18;моим;МОЙ;APRO dat pl plen ;;;м;и;о;м;;;A;МОЙ;A - ins sg plen m -
+36290;19;подружкам;ПОДРУЖКА;S f anim dat pl;;;м;а;к;ж;у;р;S;ПОДРУЖКА;S f anim dat pl
+36291;20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36292;21;нооо;НО;CONJ;*;;о;о;о;н;;;S;НООО;S m inan nonflex nonflex
+36293;22;потом;ПОТОМ;ADV;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36294;23;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36295;24;дала;ДАТЬ;V pf praet sg indic f ;;;а;л;а;д;;;V;ДАТЬ;V pf praet sg indic f -
+36296;25;эээ;ЭЭЭ;INTJ;;;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+36297;26;прочитать;ПРОЧЕСТЬ;V pf inf;;;ь;т;а;т;и;ч;V;ПРОЧЕСТЬ;V pf - - inf - -
+36298;27;это;ЭТО;SPRO n acc sg;;;о;т;э;;;;S;ЭТО;S n - acc sg
+36299;28;Лизе;ЛИЗА;S f anim dat sg persn;;;е;з;и;л;;;S;ЛИЗА;S f anim dat sg
+36300;29;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36301;30;Весте.;ВЕСТА;S f anim dat sg persn;;;;е;т;с;е;в;S;ВЕСТ.;S m inan loc sg
+36302;31;Кхм;КХМ;INTJ;;;м;х;к;;;;NONLEX;КХМ;NONLEX
+36303;32;.;.;SENT;;;;;;;;;SENT;.;SENT
+36304;;;;;;;;;;;;;;;
+36305;1;Иии;И;CONJ;*;;и;и;и;;;;S;ИИИ;S m inan loc sg
+36306;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36307;3;эм;ЭМ;INTJ;;;м;э;;;;;S;ЭМ;S n inan nonflex nonflex
+36308;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36309;5;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+36310;6;они;ОНИ;SPRO pl nom 3p;;;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom
+36311;7;прочитали;ПРОЧЕСТЬ;V pf praet pl indic;;;и;л;а;т;и;ч;V;ПРОЧЕСТЬ;V pf praet pl indic - -
+36312;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36313;9;ониии;ОНИ;SPRO pl nom 3p;*;;и;и;и;н;о;;ADV;ОНИИИ;ADV -
+36314;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36315;11;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+36316;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36317;13;они;ОНИ;SPRO pl nom 3p;;;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom
+36318;14;сказали;СКАЗАТЬ;V pf praet pl indic;;;и;л;а;з;а;к;V;СКАЗАТЬ;V pf praet pl indic - -
+36319;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36320;16;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36321;17;короче;КОРОЧЕ;PARENTH ;;;е;ч;о;р;о;к;ADV;КОРОЧЕ;ADV comp
+36322;18;они;ОНИ;SPRO pl nom 3p;;;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom
+36323;19;никому;НИКТО;SPRO m dat sg;;;у;м;о;к;и;н;S;НИКТО;S m - dat sg
+36324;20;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+36325;21;расскажут;РАССКАЗАТЬ;V pf fut pl indic 3p;;;т;у;ж;а;к;с;V;РАССКАЗАТЬ;V pf fut pl indic - 3p
+36326;22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36327;23;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+36328;24;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36329;25;потом;ПОТОМ;ADV;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36330;26;всё-таки;ВСЕ-ТАКИ;PART;;;и;к;а;т;;ё;PART;ВСЕ-ТАКИ;PART
+36331;27;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+36332;28;по...;ПО...;;distort;;;;;о;п;;PR;ПО...;PR
+36333;29;побоялась;ПОБОЯТЬСЯ;V pf praet sg indic f;;;ь;с;а;л;я;о;V;ПОБОЯТЬСЯ;V pf praet sg indic f -
+36334;30;ему;ОН;SPRO sg 3p m dat;;;у;м;е;;;;SPRO;ОН;SPRO sg 3p m dat
+36335;31;<;<;PUNC;;;;;;;;;PUNC;<;PUNC
+36336;32;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+36337;33;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+36338;34;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+36339;35;;_;;;;;;;;;;;_;36
+36340;36;адать;ОТДАТЬ;V pf inf;*;;ь;т;а;д;а;;V;АДАТЬ;V pf - - inf - -
+36341;37;;_;;;;;;;;;;;_;36
+36342;38;>;>;PUNC;;;;;;;;;PUNC;>;PUNC
+36343;39;отдать;ОТДАТЬ;V pf inf;;;ь;т;а;д;т;о;V;ОТДАТЬ;V pf - - inf - -
+36344;40;<;<;PUNC;;;;;;;;;PUNC;<;PUNC
+36345;41;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+36346;42;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+36347;43;>;>;PUNC;;;;;;;;;PUNC;>;PUNC
+36348;44;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36349;45;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+36350;46;у;У;PR;;;у;;;;;;PR;У;PR
+36351;47;него...;ОН;SPRO sg 3p m gen;;;;;;о;г;е;SPRO;ОН...;SPRO sg 3p m acc
+36352;48;у;У;PR;;;у;;;;;;PR;У;PR
+36353;49;нас;МЫ;SPRO pl 1p gen;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+36354;50;была;БЫТЬ;V ipf praet sg indic f;;;а;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic f -
+36355;51;большая;БОЛЬШОЙ;A nom sg plen f ;;;я;а;ш;ь;л;о;A;БОЛЬШОЙ;A - nom sg plen f -
+36356;52;перемена;ПЕРЕМЕНА;S f inan nom sg;;;а;н;е;м;е;р;S;ПЕРЕМЕНА;S f inan nom sg
+36357;53;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36358;54;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36359;55;у;У;PR;;;у;;;;;;PR;У;PR
+36360;56;него;ОН;SPRO sg 3p m gen;;;о;г;е;н;;;SPRO;ОН;SPRO sg 3p m acc
+36361;57;был;БЫТЬ;V ipf praet sg indic m;;;л;ы;б;;;;V;БЫТЬ;V ipf praet sg indic m -
+36362;58;открыт;ОТКРЫТЬ;PARTCP pf praet sg brev m pass;;;т;ы;р;к;т;о;A;ОТКРЫТЫЙ;A - - sg brev m -
+36363;59;портфель;ПОРТФЕЛЬ;S m inan nom sg;;;ь;л;е;ф;т;р;S;ПОРТФЕЛЬ;S m inan acc sg
+36364;60;.;.;SENT;;;;;;;;;SENT;.;SENT
+36365;;;;;;;;;;;;;;;
+36366;1;Сначала;СНАЧАЛА;ADV;;;а;л;а;ч;а;н;ADV;СНАЧАЛА;ADV -
+36367;2;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36368;3;ему;ОН;SPRO sg 3p m dat;;;у;м;е;;;;SPRO;ОН;SPRO sg 3p m dat
+36369;4;засунула;ЗАСУНУТЬ;V pf praet sg indic f;;;а;л;у;н;у;с;V;ЗАСУНУТЬ;V pf praet sg indic f -
+36370;5;в;В;PR;;;в;;;;;;PR;В;PR
+36371;6;портфель;ПОРТФЕЛЬ;S m inan acc sg;;;ь;л;е;ф;т;р;S;ПОРТФЕЛЬ;S m inan acc sg
+36372;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36373;8;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+36374;9;потом;ПОТОМ;ADV;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36375;10;испугалась;ИСПУГАТЬСЯ;V pf praet sg indic f;;;ь;с;а;л;а;г;V;ИСПУГАТЬСЯ;V pf praet sg indic f -
+36376;11;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36377;12;обратно;ОБРАТНО;ADV;;;о;н;т;а;р;б;ADV;ОБРАТНО;ADV -
+36378;13;е...;Е...;;distort;;;;;е;;;S;Е...;S - - nonflex nonflex
+36379;14;это;ЭТОТ;APRO acc sg plen n ;;;о;т;э;;;;A;ЭТОТ;A - acc sg plen n -
+36380;15;письмо;ПИСЬМО;S n inan acc sg;;;о;м;ь;с;и;п;S;ПИСЬМО;S n inan nom sg
+36381;16;достала.;ДОСТАТЬ.;V pf praet sg indic f;;;;а;л;а;т;с;V;ДОСТАТЬ.;V pf praet sg indic f -
+36382;17;Ха-ха;ХА-ХА;INTJ;;;а;х;;а;х;;INTJ;ХА-ХА;INTJ
+36383;18;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+36384;19;ха;ХА;INTJ;;;а;х;;;;;INTJ;ХА;INTJ
+36385;20;.;.;SENT;;;;;;;;;SENT;.;SENT
+36386;;;;;;;;;;;;;;;
+36387;1;М.;М.;INIT abbr;;;;м;;;;;S;М.;S - - nonflex nonflex
+36388;2;Г.;Г.;INIT abbr;;;;г;;;;;S;Г.;S - - nonflex nonflex
+36389;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+36390;4;Нууу;НУ;PART;*;;у;у;у;н;;;S;НУУУ;S f anim nonflex nonflex
+36391;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36392;6;ииии;И;CONJ;*;;и;и;и;и;;;S;ИИИИ;S m inan gen sg
+36393;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36394;8;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+36395;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36396;10;короче;КОРОЧЕ;PARENTH;;;е;ч;о;р;о;к;ADV;КОРОЧЕ;ADV comp
+36397;11;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36398;12;его;ОН;SPRO sg 3p m acc;;;о;г;е;;;;SPRO;ОН;SPRO sg 3p m acc
+36399;13;потом;ПОТОМ;ADV ;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36400;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36401;15;потом;ПОТОМ;ADV ;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36402;16;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36403;17;попросила;ПОПРОСИТЬ;V pf praet sg indic f;;;а;л;и;с;о;р;V;ПОПРОСИТЬ;V pf praet sg indic f -
+36404;18;у;У;PR;;;у;;;;;;PR;У;PR
+36405;19;своего;СВОЙ;APRO gen sg plen m;;;о;г;е;о;в;с;A;СВОЙ;A - gen sg plen m -
+36406;20;другого;ДРУГОЙ;APRO gen sg plen m;;;о;г;о;г;у;р;A;ДРУГОЙ;A - gen sg plen m -
+36407;21;друга;ДРУГ;S m anim gen sg;;;а;г;у;р;д;;S;ДРУГ;S m anim gen sg
+36408;22;ластик;ЛАСТИК;S m inan acc sg;;;к;и;т;с;а;л;S;ЛАСТИК;S m inan acc sg
+36409;23;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36410;24;нооо;НО;CONJ;*;;о;о;о;н;;;S;НООО;S n inan nonflex nonflex
+36411;25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36412;26;чтобы;ЧТОБЫ;CONJ;;;ы;б;о;т;ч;;CONJ;ЧТОБЫ;CONJ
+36413;27;стереть;СТЕРЕТЬ;V pf inf;;;ь;т;е;р;е;т;V;СТЕРЕТЬ;V pf - - inf - -
+36414;28;то;ТО;SPRO inan n acc sg;;;о;т;;;;;CONJ;ТО;CONJ
+36415;29;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36416;30;то;ТО;SPRO inan n acc sg;;;о;т;;;;;NONLEX;ТО;NONLEX
+36417;31;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36418;32;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36419;33;там;ТАМ;ADVPRO;;;м;а;т;;;;ADV;ТАМ;ADV -
+36420;34;было;БЫТЬ;V ipf praet sg indic n;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+36421;35;написано;НАПИСАТЬ;PARTCP pf praet sg brev n pass;;;о;н;а;с;и;п;PARTCP;НАПИСАТЬ;PARTCP pf praet - sg brev n pass -
+36422;36;сначала;СНАЧАЛА;ADV ;;;а;л;а;ч;а;н;ADV;СНАЧАЛА;ADV -
+36423;37;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36424;38;от;ОТ;PR;;;т;о;;;;;PR;ОТ;PR
+36425;39;ко...;КО...;;distort;;;;;о;к;;PR;КО...;PR
+36426;40;от;ОТ;PR;;;т;о;;;;;PR;ОТ;PR
+36427;41;ко...;КО...;;distort;;;;;о;к;;PR;КО...;PR
+36428;42;от;ОТ;PR;;;т;о;;;;;PR;ОТ;PR
+36429;43;кого;КТО;SPRO m gen sg anim;;;о;г;о;к;;;S;КТО;S m - gen sg
+36430;44;это;ЭТО;SPRO n nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg
+36431;45;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36432;46;кому;КТО;SPRO m dat sg anim;;;у;м;о;к;;;S;КТО;S m - dat sg
+36433;47;это;ЭТО;SPRO n nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg
+36434;48;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36435;49;потому что;потому что;CONJ;;;о;т;ч;;у;м;ZERO;потому что;ZERO
+36436;50;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36437;51;постеснялась;ПОСТЕСНЯТЬСЯ;V pf praet sg indic f;;;ь;с;а;л;я;н;V;ПОСТЕСНЯТЬСЯ;V pf praet sg indic f -
+36438;52;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36439;53;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+36440;54;потом;ПОТОМ;ADV ;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36441;55;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36442;56;ему;ОН;SPRO sg 3p m dat;;;у;м;е;;;;SPRO;ОН;SPRO sg 3p m dat
+36443;57;сказала;СКАЗАТЬ;V pf praet sg indic f;;;а;л;а;з;а;к;V;СКАЗАТЬ;V pf praet sg indic f -
+36444;58;то;ТО;SPRO n inan acc sg;;;о;т;;;;;S;ТО;S n inan acc sg
+36445;59;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36446;60;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36447;61;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36448;62;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+36449;63;у;У;PR;;;у;;;;;;PR;У;PR
+36450;64;нас;МЫ;SPRO pl 1p gen;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+36451;65;начался;НАЧАТЬСЯ;V pf praet sg indic m;;;я;с;л;а;ч;а;V;НАЧАТЬСЯ;V pf praet sg indic m -
+36452;66;урок;УРОК;S m inan nom sg;;;к;о;р;у;;;S;УРОК;S m inan acc sg
+36453;67;рррусского;РУССКИЙ;A gen sg plen m;*;;о;г;о;к;с;с;A;РРРУССКИЙ;A - acc sg plen m anim
+36454;68;языка;ЯЗЫК;S m inan gen sg;;;а;к;ы;з;я;;S;ЯЗЫК;S m inan gen sg
+36455;69;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36456;70;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36457;71;ему;ОН;SPRO sg 3p m dat;;;у;м;е;;;;SPRO;ОН;SPRO sg 3p m dat
+36458;72;сказала;СКАЗАТЬ;V pf praet sg indic f;;;а;л;а;з;а;к;V;СКАЗАТЬ;V pf praet sg indic f -
+36459;73;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36460;74;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36461;75;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36462;76;ему;ОН;SPRO sg 3p m dat;;;у;м;е;;;;SPRO;ОН;SPRO sg 3p m dat
+36463;77;должна;ДОЛЖНЫЙ;A sg brev f;;;а;н;ж;л;о;д;A;ДОЛЖНЫЙ;A - - sg brev f -
+36464;78;кое-что;КОЕ-ЧТО;SPRO inan n acc sg;;;о;т;ч;;е;о;S;КОЕ-ЧТО;S n - acc sg
+36465;79;<;<;PUNC;;;;;;;;;PUNC;<;PUNC
+36466;80;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+36467;81;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+36468;82;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+36469;83;;_;;;;;;;;;;;_;84
+36470;84;адать;ОТДАТЬ;V pf inf;*;;ь;т;а;д;а;;V;АДАТЬ;V pf - - inf - -
+36471;85;;_;;;;;;;;;;;_;84
+36472;86;>;>;PUNC;;;;;;;;;PUNC;>;PUNC
+36473;87;отдать;ОТДАТЬ;V pf inf;;;ь;т;а;д;т;о;V;ОТДАТЬ;V pf - - inf - -
+36474;88;<;<;PUNC;;;;;;;;;PUNC;<;PUNC
+36475;89;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+36476;90;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+36477;91;>;>;PUNC;;;;;;;;;PUNC;>;PUNC
+36478;92;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36479;93;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+36480;94;сказал;СКАЗАТЬ;V pf praet sg indic m;;;л;а;з;а;к;с;V;СКАЗАТЬ;V pf praet sg indic m -
+36481;95;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36482;96;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36483;97;«;«;PUNC;;;;;;;;;PUNC;«;PUNC
+36484;98;Хорошо;ХОРОШО;PART;;;о;ш;о;р;о;х;PART;ХОРОШО;PART
+36485;99;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36486;100;эээ;ЭЭЭ;INTJ;;;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+36487;101;хорошо;ХОРОШО;PART;;;о;ш;о;р;о;х;ADV;ХОРОШО;ADV -
+36488;102;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36489;103;отдашь;ОТДАТЬ;V pf fut sg indic 2p;;;ь;ш;а;д;т;о;V;ОТДАТЬ;V pf fut sg indic - 2p
+36490;104;мне;Я;SPRO sg 1p dat;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc
+36491;105;потом;ПОТОМ;ADV ;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36492;106;на;НА;PR;;;а;н;;;;;PR;НА;PR
+36493;107;перемене;ПЕРЕМЕНА;S f inan loc sg;;;е;н;е;м;е;р;S;ПЕРЕМЕНА;S f inan loc sg
+36494;108;»;»;PUNC;;;;;;;;;PUNC;»;PUNC
+36495;109;.;.;SENT;;;;;;;;;SENT;.;SENT
+36496;;;;;;;;;;;;;;;
+36497;1;И;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36498;2;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+36499;3;началась;НАЧАТЬСЯ;V pf praet sg indic f ;;;ь;с;а;л;а;ч;V;НАЧАТЬСЯ;V pf praet sg indic f -
+36500;4;перемена;ПЕРЕМЕНА;S f inan nom sg;;;а;н;е;м;е;р;S;ПЕРЕМЕНА;S f inan nom sg
+36501;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36502;6;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36503;7;ему;ОН;SPRO sg 3p m dat;;;у;м;е;;;;SPRO;ОН;SPRO sg 3p m dat
+36504;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36505;9;яяя;Я;SPRO sg 1p nom;*;;я;я;я;;;;NONLEX;ЯЯЯ;NONLEX
+36506;10;ему;ОН;SPRO sg 3p m dat;;;у;м;е;;;;SPRO;ОН;SPRO sg 3p m dat
+36507;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36508;12;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+36509;13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36510;14;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36511;15;его;ОН;SPRO sg 3p m acc;;;о;г;е;;;;SPRO;ОН;SPRO sg 3p m acc
+36512;16;сначала;СНАЧАЛА;ADV;;;а;л;а;ч;а;н;ADV;СНАЧАЛА;ADV -
+36513;17;побоялась;ПОБОЯТЬСЯ;V pf praet sg indic f;;;ь;с;а;л;я;о;V;ПОБОЯТЬСЯ;V pf praet sg indic f -
+36514;18;отдать;ОТДАТЬ;V pf inf;;;ь;т;а;д;т;о;V;ОТДАТЬ;V pf - - inf - -
+36515;19;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36516;20;потому что;потому что;CONJ;;;о;т;ч;;у;м;ZERO;потому что;ZERO
+36517;21;эта;ЭТОТ;APRO nom sg plen f;;;а;т;э;;;;A;ЭТОТ;A - nom sg plen f -
+36518;22;моя;МОЙ;APRO nom sg plen f;;;я;о;м;;;;A;МОЙ;A - nom sg plen f -
+36519;23;подружка;ПОДРУЖКА;S f anim nom sg f;;;а;к;ж;у;р;д;S;ПОДРУЖКА;S f anim nom sg
+36520;24;Лиза;ЛИЗА;S f anim nom sg persn;;;а;з;и;л;;;S;ЛИЗА;S f anim nom sg
+36521;25;хотела;ХОТЕТЬ;V ipf praet sg indic f ;;;а;л;е;т;о;х;V;ХОТЕТЬ;V ipf praet sg indic f -
+36522;26;сама;САМ;APRO nom sg plen f;;;а;м;а;с;;;A;САМ;A - nom sg plen f -
+36523;27;у;У;PR;;;у;;;;;;PR;У;PR
+36524;28;меня;Я;SPRO sg 1p gen;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - acc
+36525;29;вырвать;ВЫРВАТЬ;V pf inf;;;ь;т;а;в;р;ы;V;ВЫРВАТЬ;V pf - - inf - -
+36526;30;этот;ЭТОТ;APRO acc sg plen m inan;;;т;о;т;э;;;A;ЭТОТ;A - acc sg plen m inan
+36527;31;конверт;КОНВЕРТ;S m inan acc sg;;;т;р;е;в;н;о;S;КОНВЕРТ;S m inan acc sg
+36528;32;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36529;33;отдать;ОТДАТЬ;V pf inf ;;;ь;т;а;д;т;о;V;ОТДАТЬ;V pf - - inf - -
+36530;34;ему;ОН;SPRO sg 3p m dat;;;у;м;е;;;;SPRO;ОН;SPRO sg 3p m dat
+36531;35;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36532;36;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+36533;37;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36534;38;ей;ОНА;SPRO sg 3p f dat;;;й;е;;;;;SPRO;ОНА;SPRO sg 3p f dat
+36535;39;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+36536;40;дала;ДАТЬ;V pf praet sg indic f ;;;а;л;а;д;;;V;ДАТЬ;V pf praet sg indic f -
+36537;41;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36538;42;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36539;43;мы;МЫ;SPRO pl 1p nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+36540;44;чуть;ЧУТЬ;ADV;;;ь;т;у;ч;;;ADV;ЧУТЬ;ADV -
+36541;45;с;С;PR;;;с;;;;;;PR;С;PR
+36542;46;ней;ОНА;SPRO sg 3p f ins;;;й;е;н;;;;SPRO;ОНА;SPRO sg 3p f loc
+36543;47;конверт;КОНВЕРТ;S m inan acc sg;;;т;р;е;в;н;о;S;КОНВЕРТ;S m inan acc sg
+36544;48;этот;ЭТОТ;APRO acc sg plen m;;;т;о;т;э;;;A;ЭТОТ;A - nom sg plen m -
+36545;49;дурацкий;ДУРАЦКИЙ;A acc sg plen m;;;й;и;к;ц;а;р;A;ДУРАЦКИЙ;A - nom sg plen m -
+36546;50;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+36547;51;порвали;ПОРВАТЬ;V pf praet pl indic;;;и;л;а;в;р;о;V;ПОРВАТЬ;V pf praet pl indic - -
+36548;52;.;.;SENT;;;;;;;;;SENT;.;SENT
+36549;;;;;;;;;;;;;;;
+36550;1;М.;М.;INIT abbr;;;;м;;;;;S;М.;S - - nonflex nonflex
+36551;2;Г.;Г.;INIT abbr;;;;г;;;;;S;Г.;S - - nonflex nonflex
+36552;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+36553;4;Ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+36554;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36555;6;в;В;PR;;;в;;;;;;PR;В;PR
+36556;7;общем;ОБЩИЙ;A loc sg plen m;;;м;е;щ;б;о;;A;ОБЩИЙ;A - loc sg plen m -
+36557;8;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36558;9;ему;ОН;SPRO sg 3p m dat;;;у;м;е;;;;SPRO;ОН;SPRO sg 3p m dat
+36559;10;потом;ПОТОМ;ADV;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -
+36560;11;отдала;ОТДАТЬ;V pf praet sg indic f ;;;а;л;а;д;т;о;V;ОТДАТЬ;V pf praet sg indic f -
+36561;12;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36562;13;ждала;ЖДАТЬ;V ipf praet sg indic f ;;;а;л;а;д;ж;;V;ЖДАТЬ;V ipf praet sg indic f -
+36563;14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36564;15;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+36565;16;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+36566;17;уже;УЖЕ;ADV;;;е;ж;у;;;;ADV;УЖЕ;ADV -
+36567;18;прочитает;ПРОЧЕСТЬ;V pf fut sg indic 3p;;;т;е;а;т;и;ч;V;ПРОЧЕСТЬ;V pf fut sg indic - 3p
+36568;19;.;.;SENT;;;;;;;;;SENT;.;SENT
+36569;;;;;;;;;;;;;;;
+36570;1;Он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+36571;2;сказал;СКАЗАТЬ;V pf praet sg indic m ;;;л;а;з;а;к;с;V;СКАЗАТЬ;V pf praet sg indic m -
+36572;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36573;4;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36574;5;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+36575;6;прочитает;ПРОЧЕСТЬ;V pf fut sg indic 3p;;;т;е;а;т;и;ч;V;ПРОЧЕСТЬ;V pf fut sg indic - 3p
+36576;7;это;ЭТО;SPRO n acc sg;;;о;т;э;;;;S;ЭТО;S n - acc sg
+36577;8;<;<;PUNC;;;;;;;;;PUNC;<;PUNC
+36578;9;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+36579;10;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+36580;11;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+36581;12;;_;;;;;;;;;;;_;13
+36582;13;тока;ТОЛЬКО;PART;*;;а;к;о;т;;;S;ТОК;S m inan gen sg
+36583;14;;_;;;;;;;;;;;_;13
+36584;15;>;>;PUNC;;;;;;;;;PUNC;>;PUNC
+36585;16;только;ТОЛЬКО;PART;;;о;к;ь;л;о;т;PART;ТОЛЬКО;PART
+36586;17;<;<;PUNC;;;;;;;;;PUNC;<;PUNC
+36587;18;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+36588;19;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+36589;20;>;>;PUNC;;;;;;;;;PUNC;>;PUNC
+36590;21;дома;ДОМА;ADV ;;;а;м;о;д;;;ADV;ДОМА;ADV -
+36591;22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36592;23;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36593;24;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36594;25;очень;ОЧЕНЬ;ADV ;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+36595;26;расстроилась;РАССТРОИТЬСЯ;V pf praet sg indic f;;;ь;с;а;л;и;о;V;РАССТРОИТЬСЯ;V pf praet sg indic f -
+36596;27;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36597;28;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36598;29;поэтому;ПОЭТОМУ;ADVPRO;;;у;м;о;т;э;о;ADV;ПОЭТОМУ;ADV -
+36599;30;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36600;31;очень;ОЧЕНЬ;ADV;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+36601;32;жду;ЖДАТЬ;V ipf praes sg indic 1p;;;у;д;ж;;;;V;ЖДАТЬ;V ipf praes sg indic - 1p
+36602;33;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36603;34;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36604;35;поэтому;ПОЭТОМУ;ADVPRO;;;у;м;о;т;э;о;ADV;ПОЭТОМУ;ADV -
+36605;36;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36606;37;очень;ОЧЕНЬ;ADV;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+36607;38;жду;ЖДАТЬ;V ipf praes sg indic 1p;;;у;д;ж;;;;V;ЖДАТЬ;V ipf praes sg indic - 1p
+36608;39;завтраш...;ЗАВТРАША...;;distort;;;;;ш;а;р;S;ЗАВТРАША...;S m anim dat sg
+36609;40;завтрашнего;ЗАВТРАШНИЙ;A gen sg plen m;;;о;г;е;н;ш;а;A;ЗАВТРАШНИЙ;A - gen sg plen m -
+36610;41;дня;ДЕНЬ;S m inan gen sg;;;я;н;д;;;;S;ДЕНЬ;S m inan gen sg
+36611;42;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36612;43;чтобы;ЧТОБЫ;CONJ;;;ы;б;о;т;ч;;CONJ;ЧТОБЫ;CONJ
+36613;44;узнать;УЗНАТЬ;V pf inf;;;ь;т;а;н;з;у;V;УЗНАТЬ;V pf - - inf - -
+36614;45;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36615;46;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36616;47;что;ЧТО;CONJ;;;о;т;ч;;;;S;ЧТО;S n - nom sg
+36617;48;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36618;49;он;ОН;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ОН;SPRO sg 3p m nom
+36619;50;скажет;СКАЗАТЬ;V pf fut sg indic 3p;;;т;е;ж;а;к;с;V;СКАЗАТЬ;V pf fut sg indic - 3p
+36620;51;то;ТО;SPRO inan n acc sg;;;о;т;;;;;S;ТО;S n - acc sg
+36621;52;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36622;53;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36623;54;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36624;55;то;ТО;SPRO n inan acc sg;;;о;т;;;;;S;ТО;S n inan acc sg
+36625;56;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36626;57;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36627;58;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36628;59;там;ТАМ;ADVPRO;;;м;а;т;;;;ADV;ТАМ;ADV -
+36629;60;прочи...;ПРОЧИТЬ...;;distort;;;;;и;ч;о;V;ПРОЧИТЬ...;V pf - sg imper - 2p
+36630;61;эээ;ЭЭЭ;INTJ;;;э;э;э;;;;NONLEX;ЭЭЭ;NONLEX
+36631;62;написала;НАПИСАТЬ;V pf praet sg indic f;;;а;л;а;с;и;п;V;НАПИСАТЬ;V pf praet sg indic f -
+36632;63;.;.;SENT;;;;;;;;;SENT;.;SENT
+36633;;;;;;;;;;;;;;;
+36634;1;Всё;ВСЕ;PRAEDIC;;;ё;с;в;;;;S;ВСЕ;S - - acc pl
+36635;2;?;?;SENT;;;;;;;;;SENT;?;SENT
+36636;;;;;;;;;;;;;;;
+36637;1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg
+36638;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+36639;3;Здорово;ЗДОРОВО;INTJ;;;о;в;о;р;о;д;INTJ;ЗДОРОВО;INTJ
+36640;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36641;5;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+36642;6;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36643;7;ещё;ЕЩЕ;ADV ;;;ё;щ;е;;;;ADV;ЕЩЕ;ADV -
+36644;8;было;БЫТЬ;V ipf praet sg indic n ;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+36645;9;?;?;SENT;;;;;;;;;SENT;?;SENT
+36646;;;;;;;;;;;;;;;
+36647;1;М.;М.;INIT abbr;;;;м;;;;;S;М.;S - - nonflex nonflex
+36648;2;Г.;Г.;INIT abbr;;;;г;;;;;S;Г.;S - - nonflex nonflex
+36649;3;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+36650;4;Нууу;НУ;PART;*;;у;у;у;н;;;S;НУУУ;S f anim nonflex nonflex
+36651;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36652;6;<;<;PUNC;;;;;;;;;PUNC;<;PUNC
+36653;7;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+36654;8;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+36655;9;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+36656;10;;_;;;;;;;;;;;_;11
+36657;11;ищё;ИЩЕ;ADV;*;;ё;щ;и;;;;S;ИЩЕ;S m anim nonflex nonflex
+36658;12;;_;;;;;;;;;;;_;11
+36659;13;>;>;PUNC;;;;;;;;;PUNC;>;PUNC
+36660;14;ещё;ЕЩЕ;ADV;;;ё;щ;е;;;;ADV;ЕЩЕ;ADV -
+36661;15;<;<;PUNC;;;;;;;;;PUNC;<;PUNC
+36662;16;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+36663;17;>;>;PUNC;;;;;;;;;PUNC;>;PUNC
+36664;18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36665;19;ещёёё;ЕЩЕ;ADV ;*;;ё;ё;ё;щ;е;;ADV;ЕЩЕЕЕ;ADV -
+36666;20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36667;21;ха-ха;ХА-ХА;INTJ;;;а;х;;а;х;;INTJ;ХА-ХА;INTJ
+36668;22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36669;23;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+36670;24;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36671;25;ещё;ЕЩЕ;ADV;;;ё;щ;е;;;;ADV;ЕЩЕ;ADV -
+36672;26;у;У;PR;;;у;;;;;;PR;У;PR
+36673;27;нас;МЫ;SPRO pl 1p gen;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc
+36674;28;сегодня;СЕГОДНЯ;ADV ;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -
+36675;29;сегодня;СЕГОДНЯ;ADV ;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -
+36676;30;бы...;БЫ...;;distort;;;;;ы;б;;PART;БЫ...;PART
+36677;31;бы...;БЫ...;;distort;;;;;ы;б;;PART;БЫ...;PART
+36678;32;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+36679;33;было;БЫТЬ;V ipf praet sg indic n ;;;о;л;ы;б;;;V;БЫТЬ;V ipf praet sg indic n -
+36680;34;истории;ИСТОРИЯ;S f inan gen sg;;;и;и;р;о;т;с;S;ИСТОРИЯ;S f inan gen sg
+36681;35;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36682;36;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+36683;37;наша;НАШ;APRO nom sg plen f ;;;а;ш;а;н;;;A;НАШ;A - nom sg plen f -
+36684;38;классная;КЛАССНЫЙ;A nom sg plen f ;;;я;а;н;с;с;а;A;КЛАССНЫЙ;A - nom sg plen f -
+36685;39;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36686;40;на;НА;NONLEX;слитно;;а;н;;;;;PR;НА;PR
+36687;41;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+36688;42;наша;НАШ;APRO nom sg plen f ;;;а;ш;а;н;;;A;НАШ;A - nom sg plen f -
+36689;43;учительница;УЧИТЕЛЬНИЦА;S f anim nom sg;;;а;ц;и;н;ь;л;S;УЧИТЕЛЬНИЦА;S f anim nom sg
+36690;44;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+36691;45;истории;ИСТОРИЯ;S f inan dat sg;;;и;и;р;о;т;с;S;ИСТОРИЯ;S f inan loc sg
+36692;46;–;–;PUNC;;;;;;;;;PUNC;–;PUNC
+36693;47;классная;КЛАССНЫЙ;A nom sg plen f;;;я;а;н;с;с;а;A;КЛАССНЫЙ;A - nom sg plen f -
+36694;48;руководительница;РУКОВОДИТЕЛЬНИЦА;S f anim nom sg;;;а;ц;и;н;ь;л;S;РУКОВОДИТЕЛЬНИЦА;S f anim nom sg
+36695;49;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36696;50;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36697;51;обычно;ОБЫЧНО;ADV ;;;о;н;ч;ы;б;о;ADV;ОБЫЧНО;ADV -
+36698;52;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom
+36699;53;всех;ВЕСЬ;APRO gen pl plen;;;х;е;с;в;;;A;ВЕСЬ;A - gen pl plen - -
+36700;54;девочек;ДЕВОЧКА;S f anim gen pl;;;к;е;ч;о;в;е;S;ДЕВОЧКА;S f anim gen pl
+36701;55;называет;НАЗЫВАТЬ;V ipf praes sg indic 3p;;;т;е;а;в;ы;з;V;НАЗЫВАТЬ;V ipf praes sg indic - 3p
+36702;56;курицами;КУРИЦА;S f anim ins pl;;;и;м;а;ц;и;р;S;КУРИЦА;S f anim ins pl
+36703;57;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36704;58;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+36705;59;сейчас;СЕЙЧАС;ADV;;;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -
+36706;60;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36707;61;эм;ЭМ;INTJ;;;м;э;;;;;S;ЭМ;S n inan nonflex nonflex
+36708;62;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+36709;63;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36710;64;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ
+36711;65;мы;МЫ;SPRO pl 1p nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+36712;66;шли;ИДТИ;V ipf praet pl indic ;;;и;л;ш;;;;V;ИДТИ;V ipf praet pl indic - -
+36713;67;на;НА;PR;;;а;н;;;;;PR;НА;PR
+36714;68;биологию;БИОЛОГИЯ;S f inan acc sg;;;ю;и;г;о;л;о;S;БИОЛОГИЯ;S f inan acc sg
+36715;69;ээээм;ЭМ;INTJ;*;;м;э;э;э;э;;S;ЭЭЭЭМ;S n inan nonflex nonflex
+36716;70;по;ПО;PR;;;о;п;;;;;PR;ПО;PR
+36717;71;лестнице;ЛЕСТНИЦА;S f inan dat sg;;;е;ц;и;н;т;с;S;ЛЕСТНИЦА;S f inan dat sg
+36718;72;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36719;73;то;ТО;CONJ;;;о;т;;;;;CONJ;ТО;CONJ
+36720;74;мы;МЫ;SPRO pl 1p nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom
+36721;75;встретили;ВСТРЕТИТЬ;V pf praet pl indic;;;и;л;и;т;е;р;V;ВСТРЕТИТЬ;V pf praet pl indic - -
+36722;76;её;ОНА;SPRO sg 3p f acc;;;ё;е;;;;;SPRO;ОНА;SPRO sg 3p f acc
+36723;77;.;.;SENT;;;;;;;;;SENT;.;SENT
+36724;;;;;;;;;;;;;;;
+36725;1;Обычно;ОБЫЧНО;ADV ;;;о;н;ч;ы;б;о;ADV;ОБЫЧНО;ADV -
+36726;2;у;У;PR;;;у;;;;;;PR;У;PR
+36727;3;меня;Я;SPRO sg 1p gen;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - acc
+36728;4;на;НА;PR;;;а;н;;;;;PR;НА;PR
+36729;5;головее;ГОЛОВА;S loc f sg inan;*;;е;е;в;о;л;о;A;ГОЛОВЫЙ;A comp - - plen - -
+36730;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36731;7;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART
+36732;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36733;9;либо;ЛИБО;CONJ;;;о;б;и;л;;;CONJ;ЛИБО;CONJ
+36734;10;распущенные;РАСПУСТИТЬ;PARTCP pf praet nom pl plen pass;;;е;ы;н;н;е;щ;PARTCP;РАСПУСТИТЬ;PARTCP pf praet acc pl plen - pass inan
+36735;11;волосы;ВОЛОС;S m inan nom pl;;;ы;с;о;л;о;в;S;ВОЛОС;S m inan acc pl
+36736;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36737;13;либо;ЛИБО;CONJ;;;о;б;и;л;;;CONJ;ЛИБО;CONJ
+36738;14;у;У;PR;;;у;;;;;;PR;У;PR
+36739;15;меня;Я;SPRO sg 1p gen;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - acc
+36740;16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36741;17;нууу;НУ;PART;*;;у;у;у;н;;;S;НУУУ;S m anim nonflex nonflex
+36742;18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36743;19;такой;ТАКОЙ;APRO nom sg plen m;;;й;о;к;а;т;;A;ТАКОЙ;A - nom sg plen m -
+36744;20;растрепанный;РАСТРЕПАННЫЙ;A nom sg plen m ;;;й;ы;н;н;а;п;A;РАСТРЕПАННЫЙ;A - nom sg plen m -
+36745;21;хвостик;ХВОСТИК;S m inan nom sg;;;к;и;т;с;о;в;S;ХВОСТИК;S m inan nom sg
+36746;22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36747;23;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36748;24;ей;ОНА;SPRO sg 3p f dat;;;й;е;;;;;SPRO;ОНА;SPRO sg 3p f dat
+36749;25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36750;26;наверно;НАВЕРНО;PARENTH ;;;о;н;р;е;в;а;ADV;НАВЕРНО;ADV -
+36751;27;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36752;28;это;ЭТО;SPRO n nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg
+36753;29;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART
+36754;30;очень;ОЧЕНЬ;ADV;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -
+36755;31;нравится;НРАВИТЬСЯ;V ipf praes sg indic 3p;;;я;с;т;и;в;а;V;НРАВИТЬСЯ;V ipf praes sg indic - 3p
+36756;32;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36757;33;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ
+36758;34;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36759;35;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ
+36760;36;сегодня;СЕГОДНЯ;ADV ;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -
+36761;37;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36762;38;пришла;ПРИЙТИ;V pf praet sg indic f ;;;а;л;ш;и;р;п;V;ПРИЙТИ;V pf praet sg indic f -
+36763;39;с;С;PR;;;с;;;;;;PR;С;PR
+36764;40;косичкой;КОСИЧКА;S f inan ins sg;;;й;о;к;ч;и;с;S;КОСИЧКА;S f inan ins sg
+36765;41;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36766;42;с;С;PR;;;с;;;;;;PR;С;PR
+36767;43;хвостиком;ХВОСТИК;S m inan ins sg;;;м;о;к;и;т;с;S;ХВОСТИК;S m inan ins sg
+36768;44;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36769;45;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ
+36770;46;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom
+36771;47;сказала;СКАЗАТЬ;V pf praet sg indic f ;;;а;л;а;з;а;к;V;СКАЗАТЬ;V pf praet sg indic f -
+36772;48;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+36773;49;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ
+36774;50;я;Я;SPRO sg 1p nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom
+36775;51;её;ЕЕ;APRO ;;;ё;е;;;;;A;ЕЕ;A - nonflex nonflex plen - -
+36776;52;красавица;КРАСАВИЦА;S f anim nom sg;;;а;ц;и;в;а;с;S;КРАСАВИЦА;S f anim nom sg
+36777;53;.;.;SENT;;;;;;;;;SENT;.;SENT
